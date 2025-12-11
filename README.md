@@ -8,6 +8,12 @@ End-to-end Python + Streamlit inventory management BI system. Simulated SKU-leve
 
 -----
 
+<p align="center">
+  <a href="https://inventory-management-bi-system.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Interactive BI System on%20Streamlit-006699?style=for-the-badge&logo=tableau&logoColor=white"/>
+  </a>
+</p>
+
 ![Screenshot 2025-12-11 231534](https://github.com/user-attachments/assets/e9cbc89d-9e72-4a2d-876a-a52f01d4a11b)
 <img width="2790" height="650" alt="Screenshot 2025-12-11 232219 - Copy" src="https://github.com/user-attachments/assets/e4357fb4-6c98-4fab-91fe-4d06a5ff4898" />
 
@@ -298,5 +304,15 @@ ELSE:
 
 <img width="1856" height="490" alt="tools" src="https://github.com/user-attachments/assets/fac8516e-083a-40f7-9b88-ada21124e578" />
 
+<p align="center">
+  <a href="https://inventory-management-bi-system.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Interactive BI System on%20Streamlit-006699?style=for-the-badge&logo=tableau&logoColor=white"/>
+  </a>
+</p>
 
+<p align="center">
+  <a href="Inventory_Management_BI_System.py" target="_blank">
+    <img src="https://img.shields.io/badge/View%20 Python Code-ff9933?style=for-the-badge&logo=tableau&logoColor=white"/>
+  </a>
+</p>
 
